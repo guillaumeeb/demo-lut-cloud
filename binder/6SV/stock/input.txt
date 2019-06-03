@@ -1,0 +1,23 @@
+0 (User defined)
+50.0 0.0 40.0 90.0 10 3 (geometrical conditions)
+2 option for midlat summer profile
+10 Junge law
+0.001 20. 2 (rmin and rmax in µm )
+4 (alpha = Junge law's slope)
+1.530000 1.530000 1.530000 1.530000 1.530000 1.530000 1.530000 1.530000 1.530000 1.530000 1.530000
+1.530000 1.526024 1.520000 1.475000 1.400000 1.369773 1.247500 1.220000 1.270000 (dust-like nr)
+0.008000 0.008000 0.008000 0.008000 0.008000 0.008000 0.008000 0.008000 0.008000 0.008000 0.008000
+0.008000 0.008000 0.008000 0.008000 0.008000 0.008000 0.008000 0.009000 0.011000 (dus-like ni)
+1 iaerp = mie results  saved 
+AerCoeff_junge_dustlike
+0 visibility disabled
+0.3 aot at 550 nm
+0  (target at sea level)
+-1000 (sensor aboard satellite)
+-2 (spectral band input with output printed step by step every 2.5 nm)
+2.0 2.06 (min et max wavenumber in µm)
+0 (homogeneous surface)
+0 lambertian
+0 constant reflectance input
+0.3 (reflectance value)
+-1 no atmospheric corrections selected

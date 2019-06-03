@@ -1,2 +1,2 @@
-cd 6SV && make
+cd binder/6SV && make && cp sixsV1.1 ../../ 
 
